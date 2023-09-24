@@ -2,4 +2,4 @@ body{font-family: Arial, Helvetica, sans-serif;}
 .footer{ text-align: center; color:DarkBLue; padding: 20px; background-color: beige}
 .redClass { color:red }
 table {width: 100%; border: 1px solid black}
-footer{font-weight: bold;}
+footer{font-weight: bold; color: rgba(256, 12, 12, 6);}

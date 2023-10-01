@@ -1,5 +1,5 @@
 body{font-family: Arial, Helvetica, sans-serif;}
-.footer{ text-align: center; color:DarkBLue; padding: 20px; background-color: rgba(74, 156, 12, 0.1)}
 .redClass { color:red }
 table {width: 100%; border: 1px solid black}
-footer{font-weight: bold;}
+#footer{font-weight: bold; border-style: double; border-width:  2px; margin: 20px 10px; text-align: center; text-justify: auto;}
+.small {font-size: 0.6em; text-decoration-line: underline;}
